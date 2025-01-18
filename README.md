@@ -1,1 +1,1 @@
-# Pooja_hande
+# MNIST-Digit_Recognizer_using_CNN
